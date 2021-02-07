@@ -1,3 +1,3 @@
 # bridgelabz
 made changes in readme file via remote server
-hello world
+ HELLO world
